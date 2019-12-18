@@ -1,7 +1,7 @@
 /*
 Khoảng của SMALLINT trong PostgreSQL?
 
-(Chọn đáp án thích hợp nhất.) (-32768 to 32768)
+(Chọn đáp án thích hợp nhất.) (-32768 to 32767)
 */
 /*
 Tổng quan về các kiểu dữ liệu PostgreSQL
